@@ -11,6 +11,7 @@ Notes:
 * 01 - The end of 1000 years
 
 * 02 - The theme of Arcueid
+    * TODO: Implement genre Spicy Girls "Stop".
 
 * 03 - Elegant summer
     * It follows a combined composition of this piece in MBAA and MBAC.
